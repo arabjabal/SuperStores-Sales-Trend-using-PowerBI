@@ -1,4 +1,4 @@
-# Sales-Trend-Using-PowerBI
+# SuperStore Sales-Trend-Using-PowerBI
 
 ## Table of Contents
 - [Project Description](#project-description)
