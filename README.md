@@ -14,6 +14,7 @@
 
 This Sales Analytics Dashboard is a powerful, interactive tool designed to track key sales metrics, optimize inventory, and maximize profitability. It provides real-time insights into monthly sales trends, top-selling products, and regional performance across multiple store locations.
 
+
 ## Key Features
   #### ✔ Monthly Sales Trends – Interactive line charts showing sales over time.
   #### ✔ Top Products – Identify best-sellers and underperforming items with dynamic rankings.
